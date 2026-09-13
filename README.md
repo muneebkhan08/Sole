@@ -14,31 +14,18 @@ everything they did, and drafts sitting in a queue waiting for your yes.
 
 ## Demo
 
-<!-- ─────────────────────────────────────────────────────────────
-     GitHub only plays video served from its own asset CDN.
+![Sole HQ demo](docs/demo.gif)
 
-     TO MAKE IT PLAY INLINE ON GITHUB:
-       1. Open any issue or PR comment box on this repo
-       2. Drag docs/demo.mp4 into it — GitHub uploads it and returns
-          a URL like https://github.com/<user>/<repo>/assets/<id>/<f>.mp4
-       3. Paste that URL on its own line just below this comment
-       4. Close the comment box without submitting
-
-     Until then the poster frame below links to the file in-repo,
-     which works on a clone and on GitHub's file viewer.
-     ───────────────────────────────────────────────────────────── -->
-
-[![Sole HQ demo](docs/demo-poster.png)](docs/demo.mp4)
-
-<sub><b>▶ End-to-end, recorded live.</b> A brief goes in — <code>"Only scrape Reddit
-for one SaaS pricing thread."</code> Sole routes it to <b>Scrapper alone</b> and benches
-the other three. The floor reacts, the activity rail fills with real tool calls, and a
-spreadsheet and report land in the tray. The detail view opens on a real r/sysadmin
-thread with a live permalink, score, comments, sentiment and theme, then the timeline,
-then the report rendered inline.</sub>
+<sub><b>▶ End-to-end, recorded live, no clicking required — plays automatically above.</b>
+A brief goes in — <code>"Only scrape Reddit for one SaaS pricing thread."</code> Sole
+routes it to <b>Scrapper alone</b> and benches the other three. The floor reacts, the
+activity rail fills with real tool calls, and a spreadsheet and report land in the tray.
+The detail view opens on a real r/sysadmin thread with a live permalink, score, comments,
+sentiment and theme, then the timeline, then the report rendered inline.</sub>
 
 <sub>54 seconds, recorded against a live gateway. Only the collection stretch is sped
-up; everything else is real time, real data.</sub>
+up; everything else is real time, real data. Full-resolution version:
+[`docs/demo.mp4`](docs/demo.mp4).</sub>
 
 ---
 
